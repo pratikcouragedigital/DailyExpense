@@ -1,0 +1,10 @@
+
+
+Project Name    DailyExpense
+version 	3.0.0	
+versionCode 	12	
+keyAlias 	release_Key
+keyPassword 	Pratik@10	
+storePassword 	Pratik@10	
+storeFile	release_Key.jks	
+applicationId	com.pratik.dailyexpense

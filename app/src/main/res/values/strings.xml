@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">DailyExpense</string>
+    <string name="action_settings">Settings</string>
+    <string name="url">http://</string>
+    <!--//mobitechs admob account Details-->
+    <!--<string name="admob_app_id">ca-app-pub-2087161176329567~6020371920</string>-->
+    <!--<string name="banner_home_footer">ca-app-pub-2087161176329567/3621439298</string>-->
+    <!--<string name="interstitial_full_screen">ca-app-pub-2087161176329567/9086600531</string>-->
+    <!--<string name="rewarded_video">ca-app-pub-2087161176329567/2280561173</string>-->
+
+    <!--//sonawane.ptk admob account Details-->
+    <string name="admob_app_id">ca-app-pub-6329089990555773~6773673985</string>
+    <string name="banner_home_footer">ca-app-pub-6329089990555773/3072842948</string>
+    <string name="interstitial_full_screen">ca-app-pub-6329089990555773/8143021007</string>
+    <string name="rewarded_video">ca-app-pub-6329089990555773/7376734243</string>
+
+
+    <!--<string name="banner_home_footer">ca-app-pub-3940256099942544/6300978111</string>-->
+    <!--<string name="interstitial_full_screen">ca-app-pub-3940256099942544/1033173712</string>-->
+    <!--<string name="rewarded_video">ca-app-pub-3940256099942544/5224354917</string>-->
+
+
+    <string name="fabBehaviour">com.pratik.dailyexpense.behaviours.ScrollAwareFABBehavior</string>
+</resources>

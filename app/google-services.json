@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "268944386643",
+    "firebase_url": "https://daily-expense-151f7.firebaseio.com",
+    "project_id": "daily-expense-151f7",
+    "storage_bucket": "daily-expense-151f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268944386643:android:a11ee77db01bfa04",
+        "android_client_info": {
+          "package_name": "com.pratik.dailyexpense"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268944386643-nekpotcnve9lqjpp7sibkc90d03b9kf3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbf7OUiVoudCzxlY9JSbFdxK6oCEv1AcI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
